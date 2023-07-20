@@ -1,3 +1,3 @@
-module github.com/GoAdminGroup/html
+module github.com/Lifelong-Study/html
 
 go 1.13
